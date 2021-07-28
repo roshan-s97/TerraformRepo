@@ -6,15 +6,23 @@ Repo for consolidating Terraform hcl files across prodapt
 
 Please follow below folder structure
 
-|- Cloud Provider
+~~~bash
+
+|- Terraform Provider
    |- Template Category (Ntier/Kubernetes/etc)
       |- "your component"
          |- your tf folders and files
+~~~
 
-For example
+For example:
+
+~~~bash
+
 |- VMWare
    |- Kubernetes
       |- K8sonVmware
+
+~~~
 
 ## Check and Commit process
 
