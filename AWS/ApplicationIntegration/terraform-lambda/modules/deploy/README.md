@@ -186,11 +186,7 @@ No modules.
 | <a name="output_script"></a> [script](#output\_script) | Deployment script |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-## Authors
 
-Module managed by [Anton Babenko](https://github.com/antonbabenko). Check out [serverless.tf](https://serverless.tf) to learn more about doing serverless with Terraform.
-
-Please reach out to [Betajob](https://www.betajob.com/) if you are looking for commercial support for your Terraform, AWS, or serverless project.
 
 
 ## License
